@@ -46,11 +46,13 @@
 
 ## My Projects
 
-- HTML, CSS, SCSS:
+```
+  HTML, CSS, SCSS:
+```
 
-  - [x] [Web Studio](https://dmytro1117.github.io/web-studio/) [[Github](https://github.com/Dmytro1117/web-studio)]
-  - [x] [Awesome](https://dmytro1117.github.io/awesome-html-css/) [[Github](https://github.com/Dmytro1117/awesome-html-css)]
-  - [x] [Donut](https://dmytro1117.github.io/oh-my-donut/) [[Github](https://github.com/Dmytro1117/oh-my-donut)]
+- [x] [Web Studio](https://dmytro1117.github.io/web-studio/) [[Github](https://github.com/Dmytro1117/web-studio)]
+- [x] [Awesome](https://dmytro1117.github.io/awesome-html-css/) [[Github](https://github.com/Dmytro1117/awesome-html-css)]
+- [x] [Donut](https://dmytro1117.github.io/oh-my-donut/) [[Github](https://github.com/Dmytro1117/oh-my-donut)]
 
 - JS:
 
