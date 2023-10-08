@@ -1,10 +1,10 @@
 ## Hi there, I`m Dmytro 👋
 
-```
+---
 
 <p>"I enjoy developing, designing, exploring and creating something new in the field of computer science, so I aspire to work in the IT industry as a front-end (full-stack) developer. My goal is to become part of a team of professionals."</p>
 
-```
+---
 
   <a href="https://www.linkedin.com/in/moiseienkodmytro/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -17,6 +17,8 @@
     </a>
 
 ## My stack
+
+```
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -44,13 +46,19 @@
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+```
+
 ## My Projects
+
+```
 
 - HTML, CSS, SCSS:
 
-  - [Web Studio](https://dmytro1117.github.io/web-studio/) [[Github](https://github.com/Dmytro1117/web-studio)]
-  - [Awesome](https://dmytro1117.github.io/awesome-html-css/) [[Github](https://github.com/Dmytro1117/awesome-html-css)]
-  - [Donut](https://dmytro1117.github.io/oh-my-donut/) [[Github](https://github.com/Dmytro1117/oh-my-donut)]
+```
+
+- [Web Studio](https://dmytro1117.github.io/web-studio/) [[Github](https://github.com/Dmytro1117/web-studio)]
+- [Awesome](https://dmytro1117.github.io/awesome-html-css/) [[Github](https://github.com/Dmytro1117/awesome-html-css)]
+- [Donut](https://dmytro1117.github.io/oh-my-donut/) [[Github](https://github.com/Dmytro1117/oh-my-donut)]
 
 - JS:
 
