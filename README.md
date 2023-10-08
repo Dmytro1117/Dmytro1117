@@ -1,6 +1,10 @@
 ## Hi there, I`m Dmytro 👋
 
+---
+
 <p>"I enjoy developing, designing, exploring and creating something new in the field of computer science, so I aspire to work in the IT industry as a front-end (full-stack) developer. My goal is to become part of a team of professionals."</p>
+
+---
 
   <a href="https://www.linkedin.com/in/moiseienkodmytro/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -39,3 +43,35 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+## My Projects
+
+- HTML, CSS, SCSS:
+
+  - [Web Studio](https://dmytro1117.github.io/web-studio/) [[Github](https://github.com/Dmytro1117/web-studio)]
+  - [Awesome](https://dmytro1117.github.io/awesome-html-css/) [[Github](https://github.com/Dmytro1117/awesome-html-css)]
+  - [Donut](https://dmytro1117.github.io/oh-my-donut/) [[Github](https://github.com/Dmytro1117/oh-my-donut)]
+
+- JS:
+
+  - [Incredible](https://dmytro1117.github.io/incredible-js/) [[Github](https://github.com/Dmytro1117/incredible-js)]
+  - [Film Library](https://dmytro1117.github.io/film-library/) [[Github](https://github.com/Dmytro1117/film-library)]
+  - [Filmoteka](https://dmytro1117.github.io/filmoteka-by-Enigma-code/) [[Github](https://github.com/Dmytro1117/filmoteka-by-Enigma-code)] (team projects)
+  - [Pixabay](https://dmytro1117.github.io/java-script-course/) [[Github](https://github.com/Dmytro1117/java-script-course)]
+
+- React:
+
+  - [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)] (team projects)
+  - [Phonebook](https://dmytro1117.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Dmytro1117/goit-react-hw-08-phonebook)]
+  - [Movies](https://github.com/Dmytro1117/goit-react-hw-05-movies) [[Github](https://dmytro1117.github.io/goit-react-hw-05-movies/)]
+  - [Pictgaller](https://dmytro1117.github.io/goit-react-hw-04-images/) [[Github](https://github.com/Dmytro1117/goit-react-hw-04-images)]
+  - [Cosmet-shop](https://github.com/Dmytro1117/magazine-shop) [[Github](https://dmytro1117.github.io/magazine-shop/)]
+
+- React Native:
+
+  - [Mobile App](https://expo.dev/@dmytro17/react-native-social-app) [[Github](https://github.com/Dmytro1117/react-native-social-app)]
+
+- Node:
+
+  - [REST API MyContacts](https://) [[Github](https://github.com/Dima-Davidenko/So-Yammy-backend)] (team projects)
+  - [So Yammy backend](https://so-yummy.onrender.com/api-docs/#/) [[Github](https://github.com/Dmytro1117/node.js-course)]
