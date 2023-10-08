@@ -4,8 +4,7 @@
 
 <p>"I enjoy developing, designing, exploring and creating something new in the field of computer science, so I aspire to work in the IT industry as a front-end (full-stack) developer. My goal is to become part of a team of professionals."</p>
 
----
-
+<div align="center">
   <a href="https://www.linkedin.com/in/moiseienkodmytro/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
@@ -15,6 +14,8 @@
     <a href="mailto:moiseenkodmitriy1177@gmail.com">
        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Пошта"/>
     </a>
+</div>
+---
 
 ## My stack
 
