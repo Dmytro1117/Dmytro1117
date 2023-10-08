@@ -6,9 +6,9 @@
    <a href="https://t.me/">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-   <a href="moiseenkodmitriy1177@gmail.com">
-       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a>
+  <a href="mailto:moiseenkodmitriy1177@gmail.com">
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Пошта"/>
+</a>
 
 ## My stack
 
