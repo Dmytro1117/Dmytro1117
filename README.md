@@ -61,11 +61,11 @@
 
 - React:
 
-  - [1] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)] (team projects)
-  - [2] [Phonebook](https://dmytro1117.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Dmytro1117/goit-react-hw-08-phonebook)]
-  - [3] [Movies](https://github.com/Dmytro1117/goit-react-hw-05-movies) [[Github](https://dmytro1117.github.io/goit-react-hw-05-movies/)]
-  - [4] [Pictgaller](https://dmytro1117.github.io/goit-react-hw-04-images/) [[Github](https://github.com/Dmytro1117/goit-react-hw-04-images)]
-  - [5] [Cosmet-shop](https://github.com/Dmytro1117/magazine-shop) [[Github](https://dmytro1117.github.io/magazine-shop/)]
+  [1] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)] (team projects)
+  [2] [Phonebook](https://dmytro1117.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Dmytro1117/goit-react-hw-08-phonebook)]
+  [3] [Movies](https://github.com/Dmytro1117/goit-react-hw-05-movies) [[Github](https://dmytro1117.github.io/goit-react-hw-05-movies/)]
+  [4] [Pictgaller](https://dmytro1117.github.io/goit-react-hw-04-images/) [[Github](https://github.com/Dmytro1117/goit-react-hw-04-images)]
+  [5] [Cosmet-shop](https://github.com/Dmytro1117/magazine-shop) [[Github](https://dmytro1117.github.io/magazine-shop/)]
 
 - React Native:
 
