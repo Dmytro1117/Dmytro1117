@@ -73,5 +73,5 @@
 
 - Node:
 
-  - [REST API MyContacts](https://) [[Github](https://github.com/Dima-Davidenko/So-Yammy-backend)] (team projects)
-  - [So Yammy backend](https://so-yummy.onrender.com/api-docs/#/) [[Github](https://github.com/Dmytro1117/node.js-course)]
+  - [So Yammy backend](https://so-yummy.onrender.com/api-docs/#/) [[Github](https://github.com/Dima-Davidenko/So-Yammy-backend)] (team projects)
+  - [REST API MyContacts](https://github.com/Dmytro1117/node.js-course) [[Github](https://github.com/Dmytro1117/node.js-course)]
