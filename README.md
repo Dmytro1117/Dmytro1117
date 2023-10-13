@@ -3,7 +3,7 @@
 ---
 
 <div align="center">
-  <p>I enjoy developing, designing, exploring and creating something new in the field of computer science, so I aspire to work in the IT industry as a front-end (full-stack) developer. My goal is to become part of a team of professionals.</p>
+  <p>I enjoy developing, designing, exploring and creating something new in the field of computer science, so I aspire to work in the IT industry as a front-end or full-stack developer. My goal is to become part of a team of professionals.</p>
 
   <a href="https://www.linkedin.com/in/moiseienkodmytro/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
