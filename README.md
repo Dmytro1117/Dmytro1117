@@ -58,16 +58,14 @@
 
   - [x] [Incredible](https://dmytro1117.github.io/incredible-js/) [[Github](https://github.com/Dmytro1117/incredible-js)]
   - [x] [Film Library](https://dmytro1117.github.io/film-library/) [[Github](https://github.com/Dmytro1117/film-library)]
-  - [x] [Filmoteka](https://dmytro1117.github.io/filmoteka-by-Enigma-code/) [[Github](https://github.com/Dmytro1117/filmoteka-by-Enigma-code)] (team project)
   - [x] [Pixabay](https://dmytro1117.github.io/java-script-course/) [[Github](https://github.com/Dmytro1117/java-script-course)]
 
 - React:
 
-  - [x] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)] (team project)
+  - [x] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)]
   - [x] [Phonebook](https://dmytro1117.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Dmytro1117/goit-react-hw-08-phonebook)]
-  - [x] [Movies](https://github.com/Dmytro1117/goit-react-hw-05-movies) [[Github](https://dmytro1117.github.io/goit-react-hw-05-movies/)]
-  - [x] [Pictgaller](https://dmytro1117.github.io/goit-react-hw-04-images/) [[Github](https://github.com/Dmytro1117/goit-react-hw-04-images)]
-  - [x] [Cosmet-shop](https://github.com/Dmytro1117/magazine-shop) [[Github](https://dmytro1117.github.io/magazine-shop/)]
+  - [x] [Movies](https://dmytro1117.github.io/goit-react-hw-05-movies/) [[Github](https://github.com/Dmytro1117/goit-react-hw-05-movies)]
+  - [x] [So Yammy](https://dmytro1117.github.io/So-Yummy/) [[Github](https://github.com/Dmytro1117/So-Yummy)] (team project)
 
 - React Native:
 
