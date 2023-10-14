@@ -75,4 +75,4 @@
 
   - [x] [REST API Contacts](https://test-back-lp20.onrender.com/api-docs/) [[Github](https://github.com/Dmytro1117/node.js-course)]
   - [x] [REST API Books](https://github.com/Dmytro1117/magic-node.js) [[Github](https://github.com/Dmytro1117/magic-node.js)]
-  - [x] [So Yammy backend](https://so-yummy.onrender.com/api-docs/#/) [[Github](https://github.com/Dima-Davidenko/So-Yammy-backend)] (team project)
+  - [x] [REST API So Yammy](https://so-yummy.onrender.com/api-docs/#/) [[Github](https://github.com/Dima-Davidenko/So-Yammy-backend)] (team project)
