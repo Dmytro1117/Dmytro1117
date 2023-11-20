@@ -76,9 +76,10 @@
 
 - React:
 
+  - [x] [Phonebook](https://dmytro1117.github.io/great-react/) [[Github](https://github.com/Dmytro1117/great-react)]
+  - [x] [Mov-finder](https://dmytro1117.github.io/Mov-finder/) [[Github](https://github.com/Dmytro1117/Mov-finder)]
+  - [x] [Pic-finder](https://dmytro1117.github.io/Pic-finder/) [[Github](https://github.com/Dmytro1117/Pic-finder)]
   - [x] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)]
-  - [x] [Phonebook](https://dmytro1117.github.io/goit-react-hw-08-phonebook/) [[Github](https://github.com/Dmytro1117/goit-react-hw-08-phonebook)]
-  - [x] [Movies](https://dmytro1117.github.io/goit-react-hw-05-movies/) [[Github](https://github.com/Dmytro1117/goit-react-hw-05-movies)]
   - [x] [So Yammy](https://dmytro1117.github.io/So-Yummy/) [[Github](https://github.com/Dmytro1117/So-Yummy)] (team project)
 
 - React Native:
