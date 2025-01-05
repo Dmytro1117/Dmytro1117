@@ -65,21 +65,17 @@
 - HTML, CSS:
 
   - [x] [Web Studio](https://dmytro1117.github.io/web-studio/) [[Github](https://github.com/Dmytro1117/web-studio)]
-  - [x] [Awesome](https://dmytro1117.github.io/awesome-html-css/) [[Github](https://github.com/Dmytro1117/awesome-html-css)]
   - [x] [Donut](https://dmytro1117.github.io/oh-my-donut/) [[Github](https://github.com/Dmytro1117/oh-my-donut)]
 
 - JS:
 
-  - [x] [Incredible](https://dmytro1117.github.io/incredible-js/) [[Github](https://github.com/Dmytro1117/incredible-js)]
+  - [x] [Country](https://dmytro1117.github.io/incredible-js/) [[Github](https://github.com/Dmytro1117/incredible-js)]
   - [x] [Film Library](https://dmytro1117.github.io/film-library/) [[Github](https://github.com/Dmytro1117/film-library)]
-  - [x] [Pixabay](https://dmytro1117.github.io/java-script-course/) [[Github](https://github.com/Dmytro1117/java-script-course)]
 
 - React:
 
-  - [x] [Phonebook](https://dmytro1117.github.io/great-react/) [[Github](https://github.com/Dmytro1117/great-react)]
   - [x] [Mov-finder](https://dmytro1117.github.io/Mov-finder/) [[Github](https://github.com/Dmytro1117/Mov-finder)]
   - [x] [Pic-finder](https://dmytro1117.github.io/Pic-finder/) [[Github](https://github.com/Dmytro1117/Pic-finder)]
-  - [x] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)]
   - [x] [So Yammy](https://dmytro1117.github.io/So-Yummy/) [[Github](https://github.com/Dmytro1117/So-Yummy)] (team project)
 
 - Node:
