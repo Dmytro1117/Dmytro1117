@@ -82,10 +82,6 @@
   - [x] [Slim Mom](https://dmytro1117.github.io/Slim-Mom-by-JERALDIC/) [[Github](https://github.com/Dmytro1117/Slim-Mom-by-JERALDIC)]
   - [x] [So Yammy](https://dmytro1117.github.io/So-Yummy/) [[Github](https://github.com/Dmytro1117/So-Yummy)] (team project)
 
-- React Native:
-
-  - [x] [Mobile App](https://expo.dev/@dmytro17/react-native-social-app) [[Github](https://github.com/Dmytro1117/react-native-social-app)]
-
 - Node:
 
   - [x] [Сontact-book-API_node.js](https://contact-book-backend-hgw7.onrender.com/api-docs/) [[Github](https://github.com/Dmytro1117/contact-book-api_node.js)]
