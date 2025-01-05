@@ -88,5 +88,5 @@
 
 - Node:
 
-  - [x] [REST API Contacts](https://test-back-lp20.onrender.com/api-docs/) [[Github](https://github.com/Dmytro1117/node.js-course)]
+  - [x] [Сontact-book-API_node.js](https://contact-book-backend-hgw7.onrender.com/api-docs/) [[Github](https://github.com/Dmytro1117/contact-book-api_node.js)]
   - [x] [REST API So Yammy](https://so-yummy.onrender.com/api-docs/#/) [[Github](https://github.com/Dima-Davidenko/So-Yammy-backend)] (team project)
