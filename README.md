@@ -1,4 +1,3 @@
----
 <div align="center">
 <p>I am web developer with experience in both frontend and backend technologies. My tech stack includes JavaScript, TypeScript, React, Redux, and Styled Components for frontend development, while I use Node.js, Express, and MongoDB for backend solutions. I also work with tools like Docker, Firebase, Git, and Postman to streamline development.</p>
 
@@ -6,7 +5,6 @@
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
----
 
 ## My stack
 
